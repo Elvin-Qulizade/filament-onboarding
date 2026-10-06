@@ -12,6 +12,8 @@ return [
         'close'                 => '关闭',
         'dismiss'               => '不再显示',
         'done'                  => '完成',
+        'restart'               => '重新开始',
+        'restart_confirm'       => '这将重置您已完成的所有步骤和导览 — 要重新开始吗？',
         'completed_title'       => '全部就绪',
         'completed_description' => '所有步骤都已完成，欢迎使用。',
         'footer_note'           => '稍后还能从这里回到它。',

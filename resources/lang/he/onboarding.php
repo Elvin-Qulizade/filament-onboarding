@@ -12,6 +12,8 @@ return [
         'close'                 => 'סגור',
         'dismiss'               => 'הסתר',
         'done'                  => 'הושלם',
+        'restart'               => 'התחל מחדש',
+        'restart_confirm'       => 'פעולה זו תאפס כל שלב וסיור שכבר ראית — להתחיל מחדש?',
         'completed_title'       => 'הכול מוכן',
         'completed_description' => 'כל השלבים הושלמו. ברוך הבא.',
         'footer_note'           => 'אפשר לחזור לזה מאוחר יותר.',

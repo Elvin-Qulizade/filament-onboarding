@@ -12,6 +12,8 @@ return [
         'close'                 => '닫기',
         'dismiss'               => '숨기기',
         'done'                  => '완료',
+        'restart'               => '다시 시작',
+        'restart_confirm'       => '완료한 모든 단계와 투어가 초기화됩니다. 다시 시작할까요?',
         'completed_title'       => '모든 준비가 끝났습니다',
         'completed_description' => '모든 단계를 완료했습니다. 환영합니다.',
         'footer_note'           => '나중에 이 화면으로 다시 돌아올 수 있습니다.',

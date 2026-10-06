@@ -12,6 +12,8 @@ return [
         'close'                 => 'Fermer',
         'dismiss'               => 'Masquer',
         'done'                  => 'Terminé',
+        'restart'               => 'Recommencer',
+        'restart_confirm'       => 'Cela réinitialise chaque étape et visite déjà vues — recommencer ?',
         'completed_title'       => 'Tout est prêt',
         'completed_description' => 'Toutes les étapes sont terminées. Bienvenue.',
         'footer_note'           => 'Vous pourrez y revenir plus tard.',

@@ -12,6 +12,8 @@ return [
         'close'                 => 'Schließen',
         'dismiss'               => 'Ausblenden',
         'done'                  => 'Fertig',
+        'restart'               => 'Neu starten',
+        'restart_confirm'       => 'Dadurch werden alle erledigten Schritte und Touren zurückgesetzt — neu starten?',
         'completed_title'       => 'Alles bereit',
         'completed_description' => 'Alle Schritte sind erledigt. Willkommen.',
         'footer_note'           => 'Sie können das später fortsetzen.',

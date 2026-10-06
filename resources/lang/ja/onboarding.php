@@ -12,6 +12,8 @@ return [
         'close'                 => '閉じる',
         'dismiss'               => '非表示',
         'done'                  => '完了',
+        'restart'               => 'やり直す',
+        'restart_confirm'       => '完了した手順やツアーがすべてリセットされます。やり直しますか？',
         'completed_title'       => 'すべて準備完了',
         'completed_description' => 'すべてのステップが完了しました。ようこそ。',
         'footer_note'           => 'あとからこの画面に戻れます。',

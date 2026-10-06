@@ -12,6 +12,8 @@ return [
         'close'                 => 'Zamknij',
         'dismiss'               => 'Ukryj',
         'done'                  => 'Gotowe',
+        'restart'               => 'Zacznij od nowa',
+        'restart_confirm'       => 'To zresetuje wszystkie ukończone kroki i wycieczki — zacząć od nowa?',
         'completed_title'       => 'Wszystko gotowe',
         'completed_description' => 'Wszystkie kroki wykonane. Witamy.',
         'footer_note'           => 'Możesz do tego wrócić później.',

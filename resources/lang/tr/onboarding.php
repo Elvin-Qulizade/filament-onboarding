@@ -12,6 +12,8 @@ return [
         'close'                 => 'Kapat',
         'dismiss'               => 'Gizle',
         'done'                  => 'Bitti',
+        'restart'               => 'Yeniden başlat',
+        'restart_confirm'       => 'Bu, gördüğünüz tüm adımları ve turları sıfırlar — yeniden başlatılsın mı?',
         'completed_title'       => 'Her şey hazır',
         'completed_description' => 'Tüm adımlar tamamlandı. Aramıza hoş geldin.',
         'footer_note'           => 'Buna daha sonra devam edebilirsin.',

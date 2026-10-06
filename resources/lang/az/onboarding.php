@@ -12,6 +12,8 @@ return [
         'close'                 => 'Bağla',
         'dismiss'               => 'Gizlət',
         'done'                  => 'Hazır',
+        'restart'               => 'Yenidən başla',
+        'restart_confirm'       => 'Bu, gördüyünüz bütün addımları və turları sıfırlayır — yenidən başlamaq istəyirsiniz?',
         'completed_title'       => 'Hər şey hazırdır',
         'completed_description' => 'Bütün addımlar tamamlandı. Xoş gəlmisiniz.',
         'footer_note'           => 'Bunu sonra davam edə bilərsiniz.',
